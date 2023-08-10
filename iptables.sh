@@ -1,4 +1,4 @@
-echo -e "\e[31m[i]\e[0m \e[34mIniciando... [github.com/ShiftSad/Firewall-Defender]\e[0m"
+echo -e "\e[31m[i]\e[0m \e[34mIniciando...\e[0m"
 
 echo -e "\e[31m[i]\e[0m \e[34mResetando regras...\e[0m"
 sudo service netfilter-persistent flush
